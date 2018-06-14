@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hulk",
+        "iamge": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_%28comics_character%29.png",
+        "alterEgo": "Bruce Banner"
+    },
+    {
+        "name": "Black Widow",
+        "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/9/94/Avengers_Age_of_Ultron_Black_Widow_Portrait_Art.png/revision/latest?cb=20150524203533",
+        "alterEgo": "Natasha Romana"
+    },
+    {
+        "name": "Winter Soldier",
+        "image": "https://vignette.wikia.nocookie.net/avengersalliance/images/6/6f/Winter_Soldier_%28High_Res%29.png/revision/latest?cb=20140308210143",
+        "alterEgo": "Bucky Barnes"
+    },
+    {
+        "name": "Doctor Octopus",
+        "image": "https://pre00.deviantart.net/9ea4/th/pre/i/2018/141/b/8/003__doctor_octopus_by_green_mamba-d8ze5f7.png",
+        "alterEgo": "Otto Octavius"
+    }
+]

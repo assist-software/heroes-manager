@@ -1,0 +1,16 @@
+.c-button {
+    padding: 8px 20px;
+    box-shadow: none;
+    border: 1px solid transparent;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-button--primary {
+    background-color: #3e5368;
+    color: #FFF;
+}

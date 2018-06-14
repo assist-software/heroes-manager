@@ -1,0 +1,67 @@
+.c-form {
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #666;
+    border-top: 4px solid #34495e;
+    ;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, .05);
+    background-color: #FFF;
+}
+
+.c-form__fieldset {
+    border: 0;
+    padding: 65px 30px 30px 30px;
+    position: relative;
+}
+
+.c-form__legend {
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.c-form__submit {
+    margin-top: 20px;
+}
+
+.c-input-group {
+    margin-top: 15px;
+}
+
+.c-input-group__label {
+    font-size: 13px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.c-input-group__input {
+    display: block;
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #464a4c;
+    background-color: #fff;
+    background-image: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 2px solid rgba(0, 0, 0, .15);
+    border-radius: 0;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    &:focus {
+        border-color: #34495e;
+        outline: none;
+    }
+}
+
+.c-input-group__input--textarea {
+    height: 150px;
+}

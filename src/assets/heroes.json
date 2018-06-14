@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "SpiderMan",
+        "image": "http://pluspng.com/img-png/spider-man-png-image-spidey-4-png-ultimate-spider-man-animated-series-wiki-fandom-powered-by-wikia-843.png",
+        "type": "good",
+        "alterEgo": "Peter Parker"
+    },
+    {
+        "id": 2,
+        "name": "Thor",
+        "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/a/a0/Thor_Odinson_%28Earth-12041%29_004.png/revision/latest?cb=20141124174033",
+        "type": "good",
+        "alterEgo": "God of Thunder"
+    },
+    {
+        "id": 3,
+        "name": "Black Panther",
+        "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/0/00/Black_Panther_Render.png/revision/latest?cb=20160916143112",
+        "type": "good",
+        "alterEgo": "T'Challa"
+    },
+    {
+        "id": 4,
+        "name": "Wonder Woman",
+        "image": "https://vignette.wikia.nocookie.net/dc-superherogirls/images/f/f5/Wonder_Woman.png/revision/latest?cb=20151129051926",
+        "type": "good",
+        "alterEgo": "Princess Diana of Themyscira"
+    },
+    {
+        "id": 5,
+        "name": "Captain America",
+        "image": "http://pngimg.com/uploads/captain_america/captain_america_PNG95.png",
+        "type": "good",
+        "alterEgo": "Steve Rogers"
+    },
+    {
+        "id": 6,
+        "name": "Green Goblin",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/1/1b/Norman_osborn_render.png/revision/latest?cb=20171012210623",
+        "type": "bad",
+        "alterEgo": "Norman Osborn"
+    },
+    {
+        "id": 7,
+        "name": "Hela",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/Hela.png/revision/latest?cb=20170412070831",
+        "type": "bad",
+        "alterEgo": "..."
+    },
+    {
+        "id": 8,
+        "name": "Loki",
+        "image": "http://marvel-avengers.com/wp-content/uploads/2017/04/MUL_poses_0009_Loki2.png",
+        "type": "bad",
+        "alterEgo": "..."
+    },
+    {
+        "id": 9,
+        "name": "Kang",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/5/56/Kangtransparent.png/revision/latest?cb=20170831202557",
+        "type": "bad",
+        "alterEgo": "..."
+    },
+    {
+        "id": 10,
+        "name": "Ultron",
+        "image": "https://vignette.wikia.nocookie.net/fictional-battle-omniverse/images/d/d6/Ultron_Marvel_Comics.png/revision/latest?cb=20161223161314",
+        "type": "bad",
+        "alterEgo": "..."
+    }
+]

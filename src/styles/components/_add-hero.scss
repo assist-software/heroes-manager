@@ -1,0 +1,30 @@
+.c-hero-add-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    .c-team {
+        padding: 0;
+        width: 100%;
+    }
+}
+
+.c-hero-add-container .c-heroes__remove-all {
+    display: none;
+}
+
+.c-hero-add-container__aside,
+.c-hero-add-container__main {
+    width: 100%;
+    padding: 15px;
+}
+
+@media screen and (min-width: 900px) {
+    .c-hero-add-container__aside,
+    .c-hero-add-container__main {
+        width: 50%;
+    }
+}
